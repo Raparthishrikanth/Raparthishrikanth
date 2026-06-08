@@ -67,7 +67,7 @@ Passionate Python Full Stack Developer with 4.5+ years of experience building sc
 
 * 📧 Email: [shtrikanth7raparthi@gmail.com](mailto:shtrikanth7raparthi@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/srikanth-raparthi-104086170/
-* 🌐 Portfolio: https://your-portfolio.com
+* 🌐 Portfolio: https://reactportfolio-six-lilac.vercel.app/
 
 ---
 
